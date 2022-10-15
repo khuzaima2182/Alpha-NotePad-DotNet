@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpha NotePad", "Alpha NotePad\Alpha NotePad.csproj", "{8DEFAF61-FA6E-43AE-A76B-CC07E4B11E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEFAF61-FA6E-43AE-A76B-CC07E4B11E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEFAF61-FA6E-43AE-A76B-CC07E4B11E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEFAF61-FA6E-43AE-A76B-CC07E4B11E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEFAF61-FA6E-43AE-A76B-CC07E4B11E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D9D56A-FE4D-4F9A-90C0-43E07E5D03B4}
+	EndGlobalSection
+EndGlobal
